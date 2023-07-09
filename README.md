@@ -67,8 +67,11 @@ A product belongs to a category.
 A product can have multiple tags.
 A tag can be associated with multiple products.
 
+## Walkthrough Video
+https://github.com/marshallpeters5/e-commerce-backend/assets/89714815/a7136a39-fb1b-45fe-bdee-58258e7268f7
+
 ## License
 MIT
 
 ## Credit
-Thanks to the entire BCS and UCF team for giving me the support I need to complete this project.
+Thanks to the entire BCS and UCF team for giving me the support I need to complete this project. 
