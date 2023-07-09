@@ -37,13 +37,13 @@ Please follow the steps below to install and set up the application:
 4. Seed the database with test data:
 
     ```shell
-    node seeds/seeds.js
+    node seeds/index.js
     ```
 
 5. Start the application:
 
     ```shell
-    node index.js
+    node server.js
     ```
 
 6. The application will be running at http://localhost:3001.
